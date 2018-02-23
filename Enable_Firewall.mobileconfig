@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>Applications</key>
+			<array/>
+			<key>BlockAllIncoming</key>
+			<false/>
+			<key>EnableFirewall</key>
+			<true/>
+			<key>EnableStealthMode</key>
+			<false/>
+			<key>PayloadDisplayName</key>
+			<string>Security &amp; Privacy</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.thoughtworks.mdm.deeb6e10-d1f7-0135-6eb7-2cde48001122.alacarte.privacy.41e2b700-d1f8-0135-6eb8-2cde48001122.firewall</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.firewall</string>
+			<key>PayloadUUID</key>
+			<string>f5c83a9e-a0e6-a89a-4379-8595cb75e7c7</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Settings for EnableFirewall</string>
+	<key>PayloadIdentifier</key>
+	<string>com.thoughtworks.mdm.deeb6e10-d1f7-0135-6eb7-2cde48001122.alacarte</string>
+	<key>PayloadOrganization</key>
+	<string>ThoughtWorks</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>deeb6e10-d1f7-0135-6eb7-2cde48001122</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
