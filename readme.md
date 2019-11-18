@@ -16,4 +16,7 @@ Enable Firewall
 ---
 A device level profile to enable the firewall. The benefit of using a profile is it remains persistent across software updates. No other settings are managed via this profile.
 
+Sophos Full Disk Access
+---
+A device level profile to grant Sophos Anti-Virus full disk access. It was created using  notes provided by [Sophos](https://community.sophos.com/kb/en-us/134686) - using the rather wonderful [Profile Creator](https://github.com/ProfileCreator/ProfileCreator) application.
 
