@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AllowUserOverrides</key>
+			<true/>
+			<key>AllowedSystemExtensions</key>
+			<dict>
+				<key>2H5GFH3774</key>
+				<array>
+					<string>com.sophos.endpoint.networkextension</string>
+					<string>com.sophos.endpoint.scanextension</string>
+				</array>
+			</dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>System Extensions required for Sophos Anti-Virus on macOS Catalina and Big Sur</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.syspolicy.system-extension-policy.556E9D58-6E09-4E48-A152-557BFD324A64</string>
+			<key>PayloadOrganization</key>
+			<string>ThoughtWorks Inc..</string>
+			<key>PayloadType</key>
+			<string>com.apple.system-extension-policy</string>
+			<key>PayloadUUID</key>
+			<string>556E9D58-6E09-4E48-A152-557BFD324A64</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string></string>
+	<key>PayloadDisplayName</key>
+	<string>System Extension Policy for Sophos Anti-Virus - Catalina and Big Sur devices only</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>9079462B-CCC2-40D0-887F-C997CC97C381</string>
+	<key>PayloadOrganization</key>
+	<string>ThoughtWorks Inc.</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>2E1AA7EB-104F-418F-8130-5838468FB7B9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
+
