@@ -20,7 +20,7 @@
 			<key>allowSimple</key>
 			<true/>
 			<key>minLength</key>
-			<integer>12</integer>
+			<integer>{{passcode_length}}</integer>
 			<key>requireAlphanumeric</key>
 			<false/>
 		</dict>
